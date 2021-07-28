@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        
+        <title>next  level web page designing</title>
+    <link href="C:\Users\tjver\Desktop\next level web designing.css" rel="stylesheet" type="text/css">
+    
+    </head>
+<body>
+<center>
+ <img width="1000" height="100" src="C:\Users\tjver\Desktop\ai.jpg" alt="logo" >
+</center>
+
+
+
+<br>
+<ul>
+<li><a class="active" href="#home">Home</a></li>
+<li><a href="#home"> home</a></li>
+<li><a href="#news">news</a></li>
+<li><a href="#about us">about us</a></li>
+</ul>
+</body>
+</html>
